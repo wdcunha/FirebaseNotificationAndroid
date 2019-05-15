@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://estg-firebase-notification.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">964296924974</string>
+    <string name="google_api_key" translatable="false">AIzaSyDJSOcCc3VNmkxB78sAm7mg_iS28gnzFWQ</string>
+    <string name="google_app_id" translatable="false">1:964296924974:android:16a2a670dd356506</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDJSOcCc3VNmkxB78sAm7mg_iS28gnzFWQ</string>
+    <string name="google_storage_bucket" translatable="false">estg-firebase-notification.appspot.com</string>
+    <string name="project_id" translatable="false">estg-firebase-notification</string>
+</resources>
